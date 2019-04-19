@@ -10,7 +10,7 @@ image: "img/recentvid.png"
 ## Enjoy the video!
 
 
-### (CLICK TO SEE)
+### (CLICK TO SEE!)
 
 
 

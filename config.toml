@@ -27,7 +27,7 @@ paginate        = 6
 
   author = "Joseph Ambayec"
   authorAvatar = "img/newjh.png"
-  authorLocation = "Somewhere, QC"
+  authorLocation = "Somewhere, ??"
   authorWebsite = "https://www.youtube.com/channel/UCtG0PJMoiVkWBxHZQbuMT6A"
   authorDescription = "Owner, Developper, Programmer"
 
@@ -43,6 +43,7 @@ paginate        = 6
   name = "Main"
   url = "https://josephambayec.dev/"
   weight = 200
+
 
 [[menu.main]]
   name = "Projects"

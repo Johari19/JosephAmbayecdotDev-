@@ -29,7 +29,7 @@ paginate        = 6
   authorAvatar = "img/newjh.png"
   authorLocation = "Somewhere, ??"
   authorWebsite = "https://www.youtube.com/channel/UCtG0PJMoiVkWBxHZQbuMT6A"
-  authorDescription = "Owner, Developper, Programmer"
+  authorDescription = "Admin, Developper, Programmer"
 
   pageNotFoundTitle = "404 - Page not found"
 

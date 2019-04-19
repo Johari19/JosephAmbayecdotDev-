@@ -1,0 +1,60 @@
+baseurl         = ""
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Joseph Ambayec Dev"
+  subtitle    = "Where all my projects go"
+
+  cover       = "img/"
+  description = "Joseph Ambayec's coding portfolio"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "JosephAmbayec"
+  fbName = "rickroll548"
+  githubName = "Johari19"
+
+  logo = ""
+  orgName = ""
+  orgWebsite = ""
+  orgDescription = ""
+
+  author = "Joseph Ambayec"
+  authorAvatar = "img/newjh.png"
+  authorLocation = "Somewhere, QC"
+  authorWebsite = "https://www.youtube.com/channel/UCtG0PJMoiVkWBxHZQbuMT6A"
+  authorDescription = "Owner, Developper, Programmer"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/projects/"
+  weight = 100
+
+[[menu.main]]
+  name = "Videos"
+  url = "/categories/videos/"
+  weight = 99
+
+[[menu.main]]
+  name = "Youtube"
+  url = "https://www.youtube.com/channel/UCtG0PJMoiVkWBxHZQbuMT6A"
+  weight = 95

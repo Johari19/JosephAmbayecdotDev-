@@ -1,4 +1,4 @@
-baseurl         = "https://josephambayec.dev/"
+baseurl         = "/"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -22,7 +22,7 @@ paginate        = 6
 
   logo = ""
   orgName = "Contact: admin@josephambayec.dev"
-  orgWebsite = "content/about"
+  orgWebsite = "https://josephambayec.dev/about"
   orgDescription = ""
 
   author = "Joseph Ambayec"

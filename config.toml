@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Joseph Ambayec Dev"
+  title       = "Joseph Ambayec Devlog"
   subtitle    = "Where all my projects go"
 
   cover       = "img/preview16.png"

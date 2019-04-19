@@ -7,7 +7,7 @@ paginate        = 6
 
 [params]
   title       = "Joseph Ambayec Devlog"
-  subtitle    = "Where all my projects go"
+  subtitle    = "Where all my projects go!"
 
   cover       = "img/preview16.png"
   description = "Joseph Ambayec's coding portfolio"

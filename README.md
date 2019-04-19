@@ -1,3 +1,2 @@
 # JosephAmbayecdotNet-
-https://josephambayec.dev/
-Test!
+Website is up!: https://josephambayec.dev/

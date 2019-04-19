@@ -41,7 +41,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Main"
-  url = "https://josephambayec.dev/"
+  url = "/"
   weight = 200
 
 

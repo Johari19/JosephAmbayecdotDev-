@@ -1,4 +1,4 @@
-baseurl         = "www.josephambayec.dev"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""

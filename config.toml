@@ -46,12 +46,12 @@ paginate        = 6
 
 [[menu.main]]
   name = "Projects"
-  url = "/tags/projects/"
+  url = "/tags/Projects/"
   weight = 100
 
 [[menu.main]]
   name = "Videos"
-  url = "/tags/videos/"
+  url = "/tags/Videos/"
   weight = 99
 
 [[menu.main]]

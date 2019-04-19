@@ -2,7 +2,7 @@
 title: "My final project for this year"
 date: 2019-04-19T00:48:31-04:00
 draft: false
-tags: ["videos"]
+tags: ["Videos"]
 image: "img/recentvid.png"
 ---
 

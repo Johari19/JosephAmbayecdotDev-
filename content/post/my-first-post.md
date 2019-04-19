@@ -3,7 +3,7 @@ title: "Welcome to my site!"
 date: 2019-04-19T00:23:13-04:00
 draft: false
 image: "img/newjohari.png"
-tags: ["projects"]
+tags: ["Projects"]
 ---
 
 # New Site is launched!

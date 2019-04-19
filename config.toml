@@ -51,7 +51,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Videos"
-  url = "/categories/videos/"
+  url = "/tags/videos/"
   weight = 99
 
 [[menu.main]]

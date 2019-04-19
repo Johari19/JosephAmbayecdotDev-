@@ -41,7 +41,7 @@
 }
 
 .nav-current a:visited {
-    color: yellow;
+    color: #993399;
 }
 
 @media (min-width: 900px) {

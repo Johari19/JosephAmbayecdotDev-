@@ -9,7 +9,7 @@ paginate        = 6
   title       = "Joseph Ambayec Dev"
   subtitle    = "Where all my projects go"
 
-  cover       = "img/newjohari.png"
+  cover       = "img/"
   description = "Joseph Ambayec's coding portfolio"
   metaDescription = ""
   googleAnalytics = ""

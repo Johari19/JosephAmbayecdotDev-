@@ -6,6 +6,7 @@ noauthor = true
 share = false
 title = "About me"
 type = "page"
+image = "img/octocat.jpg"
 [menu.main]
 weight = 50
 
@@ -15,5 +16,5 @@ I'm still a young developer that is learning everything he can! Click on youtube
 Click on projects tab to see source code links, posts, images, tutorials and etc!
 
 
-#### Questions?
-Contact: admin@josephambayec.dev
+#### Questions?:
+Contact me, _admin@josephambayec.dev_

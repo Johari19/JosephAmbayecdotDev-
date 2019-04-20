@@ -9,6 +9,6 @@ tags:
 
 This is a project that I'm making for school. I'm making a webapp that times the user reaction speed!
 
-**_NOTE: Not a finished product, many bugs and glitches! If you come across some go to about me section and contact me! (Or look at the bottom of the page!)_**
+_**NOTE: Not a finished product, many bugs and glitches! If you come across some go to about me section and contact me! (Or look at the bottom of the page!)**_
 
-Here it is: https://jasec4finalproject.netlify.com/
+Here it is: https://reaction.josephambayec.dev/

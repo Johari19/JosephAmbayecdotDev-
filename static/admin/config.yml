@@ -15,3 +15,19 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", required: false}
+  
+
+  - label: "Page"
+    noauthor: true 
+    draft: false 	
+    share:  false 
+    type: "page"
+    name: "page"
+    folder: "content/page"
+    create: true
+    fields:
+    - {label: "Title of page", name: "title", widget: "string"} 
+    
+    - {label: "Weight in menu", name: "weight", widget = "number"}
+    - {label: "Body", name: "body", widget: "markdown"}
+    - {label: "Featured Image", name: "image", widget: "image", required: false}

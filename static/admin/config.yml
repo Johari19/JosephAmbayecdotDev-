@@ -27,6 +27,6 @@ collections:
     create: true
     fields:
     - {label: "Title of page", name: "title", widget: "string"} 
-    - {label: "Weight in menu", name: "weight", widget: "number", default: 2, valueType: "int", 		min: 1, max: 101, step: 2}
+    
     - {label: "Body", name: "body", widget: "markdown"}
     

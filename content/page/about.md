@@ -1,5 +1,5 @@
 ---
-title: About me test
+title: About me
 ---
 I'm still a young developer that is learning everything he can! Click on youtube or video tab to see more videos! 
 

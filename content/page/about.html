@@ -137,7 +137,10 @@ Click on projects tab to see source code" />
 <h4 id="questions">Got Questions?:</h4>
 
 
-<form name="ContactV2" method="POST" data-netlify="true">
+<form name="ContactV2" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+  <p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>
  
   <p>Use this form and I can respond directly! (faster)</p>
  <p>

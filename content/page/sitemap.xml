@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>http://www.josephambayec.dev/</loc>
+  <loc>https://www.josephambayec.dev/</loc>
   <priority>1</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/tags/projects/</loc>
+  <loc>https://www.josephambayec.dev/tags/projects/</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/tags/videos/</loc>
+  <loc>https://www.josephambayec.dev/tags/videos/</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/page/about</loc>
+  <loc>https://www.josephambayec.dev/page/about</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/reaction-test-project/</loc>
+  <loc>https://www.josephambayec.dev/reaction-test-project/</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/my-final-project-for-this-year/</loc>
+  <loc>https://www.josephambayec.dev/my-final-project-for-this-year/</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/welcome-to-my-site/</loc>
+  <loc>https://www.josephambayec.dev/welcome-to-my-site/</loc>
   <priority>0.7</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
@@ -49,7 +49,7 @@
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://www.josephambayec.dev/../faq</loc>
+  <loc>https://www.josephambayec.dev/../faq</loc>
   <priority>0.7</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
@@ -61,55 +61,55 @@
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/</loc>
+  <loc>https://josephambayec.dev/</loc>
   <priority>1</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/tags/projects/</loc>
+  <loc>https://josephambayec.dev/tags/projects/</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/tags/videos/</loc>
+  <loc>https://josephambayec.dev/tags/videos/</loc>
   <priority>0.5</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/page/about</loc>
+  <loc>https://josephambayec.dev/page/about</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/../faq</loc>
+  <loc>https://josephambayec.dev/../faq</loc>
   <priority>0.8</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/reaction-test-project/</loc>
+  <loc>https://josephambayec.dev/reaction-test-project/</loc>
   <priority>0.6</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/my-final-project-for-this-year/</loc>
+  <loc>https://josephambayec.dev/my-final-project-for-this-year/</loc>
   <priority>0.6</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-  <loc>http://josephambayec.dev/welcome-to-my-site/</loc>
+  <loc>https://josephambayec.dev/welcome-to-my-site/</loc>
   <priority>0.6</priority>
   <changefreq>hourly</changefreq>
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-<loc>/page/thanks/</loc>
+<loc>https:josephambayec.dev/page/thanks/</loc>
 <priority>0.5</priority>
 <changefreq>hourly</changefreq>
 <lastmod>2019-04-21</lastmod>

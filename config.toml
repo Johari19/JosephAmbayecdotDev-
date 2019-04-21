@@ -22,7 +22,7 @@ paginate        = 6
 
   logo = ""
   orgName = "Contact: admin@josephambayec.dev"
-  orgWebsite = "https://josephambayec.dev/about"
+  orgWebsite = "https://josephambayec.dev/page/about/"
   orgDescription = ""
 
   author = "Joseph Ambayec"

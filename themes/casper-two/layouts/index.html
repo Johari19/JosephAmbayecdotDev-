@@ -9,7 +9,7 @@
     <div class="post-feed">
       {{ partial "post-list" . }}
     </div>
-
+    
     <nav class="pagination" role="navigation">
       {{if .Paginator.HasPrev}}
           <a class="newer-posts" href="{{ .Paginator.Prev.URL }}">&larr; <span class="hide">Next Posts</span></a>

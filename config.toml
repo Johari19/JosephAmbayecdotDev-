@@ -59,3 +59,8 @@ paginate        = 6
   name = "Youtube"
   url = "http://youtube.josephambayec.dev"
   weight = 95
+
+[[menu.main]]
+  name = "About"
+  url = "/page/about"
+  weight = 0

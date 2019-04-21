@@ -7,8 +7,7 @@ share = false
 title = "About"
 type = "page"
 image = "img/octocat.jpg"
-[menu.main]
-weight = 50
+
 
 +++
 I'm still a young developer that is learning everything he can! Click on youtube or video tab to see more videos! 

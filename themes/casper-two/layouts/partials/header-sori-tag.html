@@ -39,7 +39,7 @@
         <h1 class="site-title">{{.Title}}</h1>{{$.Scratch.Set "total" (len .Data.Pages)}}
         <h2 class="site-description">
                 {{if ge ($.Scratch.Get "total") 2 }}A collection of {{$.Scratch.Get "total"}} 			{{.Title}}
-                {{else}}A collection of{{$.Scratch.Get "total"}} {{.Title}}{{end}}
+                {{else}}A collection of {{$.Scratch.Get "total"}} {{.Title}}{{end}}
         </h2>
     </div>
   </div>

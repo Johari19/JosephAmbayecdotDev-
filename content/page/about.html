@@ -138,26 +138,33 @@ Click on projects tab to see source code" />
 
 
 <form name="ContactV2" method="POST" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
-  <div class="g-recaptcha" data-sitekey="6Le9WJ8UAAAAAAOBW513WoE8RizVCnlCTN69E43f"></div>
+  
 <p class="hidden"><label>Don’t fill this out if you're human: <input name="bot-field" /></label></p>
  
   <p>Use this form and I can respond directly! (faster)</p>
  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Your Name: 
+<br>
+<input type="text" name="name" placeholder= "Firstname, Lastname" /></label>   
   </p>
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Your Email: 
+<br>
+<input type="email" name="email" placeholder="myemail@example.com"/></label>
   </p>
   <p>
     </select></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message: 
+<br>
+<textarea name="message" placeholder= "Write questions or comments here!"></textarea></label>
   </p>
   <p>
-    <button type="submit">Send</button>
+    <button type="submit">Submit</button>
   </p>
 <p style= "font-size: 19px">(Don't worry, I try to respond quickly!)<p>
+<div class="g-recaptcha" data-sitekey="6Le9WJ8UAAAAAAOBW513WoE8RizVCnlCTN69E43f"></div>
 </form>
     
         </div>

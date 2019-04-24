@@ -11,6 +11,6 @@ This is a project that I'm making for school. I'm making a webapp that times the
 
 _**NOTE: Not a finished product, many bugs and glitches! If you come across some go to about me section and contact me! (Or look at the bottom of the page!)**_
 
-[Here it is (regularly update)] (https://reaction.josephambayec.dev/)
+[Here it is (regularly updated)] (https://reaction.josephambayec.dev/)
 
-[Alternate link (not update much)] (https://josephambayec.dev/page/reactiontest/)
+[Alternate link (not updated much)] (https://josephambayec.dev/page/reactiontest/)

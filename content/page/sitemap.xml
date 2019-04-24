@@ -109,8 +109,14 @@
   <lastmod>2019-04-21</lastmod>
 </url>
 <url>
-<loc>https:josephambayec.dev/page/thanks/</loc>
+<loc>https://josephambayec.dev/page/thanks/</loc>
 <priority>0.5</priority>
+<changefreq>hourly</changefreq>
+<lastmod>2019-04-21</lastmod>
+</url>
+<url>
+<loc>https://josephambayec.dev/page/reactiontest/</loc>
+<priority>0.8</priority>
 <changefreq>hourly</changefreq>
 <lastmod>2019-04-21</lastmod>
 </url>

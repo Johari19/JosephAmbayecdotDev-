@@ -1,0 +1,102 @@
+Joseph A Computer Programming
+Reaction Test
+
+Goals and Features wanted:
+-Timing
+-Random intervals between colours
+-Allow for different input types (kb and m)
+-Award and pop-up system (Maybe could be difficult)
+-Optimized, fast, fun, simple, modern, etc.
+
+
+~Start of April 12~
+
+Created goals and almost finished Project Proposal.
+Idea for millisecond function:
+			q = new Date();
+			a = q.getMilliseconds();
+			console.log("wait");
+			console.log("wait");
+			console.log("wait");
+
+
+			w = new Date();
+			b = w.getMilliseconds();
+
+			console.log("Time when prompted: " + a);
+			console.log("Time when pressed: " + b);
+			console.log("Time took: " + b - a);
+
+Added main html and css components.
+Added click functionality in javascript
+Version: 0.2.0
+
+~End of April 12~
+
+~Start of April 13~
+
+Added a better colour switching mechanism
+Debugging
+Working switch between red and blue!
+
+Version: 0.3.9
+
+~End of April 13~
+
+~Start of April 14~
+
+Added better margin flow and colours allowing for resizable button while coding!
+
+Version: 0.4.3
+
+~End of April 14~
+
+~Start of April 15~
+
+Handed in project proposal.
+
+~End of April 15~
+
+~Start of April 16~
+
+Added resizable text and button areas!
+Button changes to size of browser! (Chrome only)
+Auto recenter text!
+
+Version: 0.5.5
+
+~End of April 16~
+
+~Start of April 17~
+
+Added green
+Added random time interval
+Added timer
+Base javascript is finish (for now)
+
+Version: 0.6.3
+
+~End of April 18~
+
+~Start of April 23~
+
+Fixed red to blue bug where green still appeared
+when red was clicked
+Started achievement functionality
+Added popup box
+Added achievement
+
+Version: 0.9.8
+
+~End of April 23~
+
+~Start of April 25~
+
+Changed colours
+Added spacebar functionality
+Bug fixes
+Disallowed text highlighting
+
+Version: 1.0.9
+
+~End of April 25~

@@ -100,3 +100,34 @@ Disallowed text highlighting
 Version: 1.0.9
 
 ~End of April 25~
+
+~Start of April 29~
+
+Added rules popbox
+Switch styles between popboxes
+Bug fixes
+
+Version: 1.1.8
+
+~End of April 29~
+
+~Start of May 5~
+
+Bug fixes
+
+Version: 1.1.9
+
+~End of May 5~
+
+~Start of May 10~
+
+Added more static Features
+Added about page
+Added css
+Change some css
+Fixed bugs
+Pretified the layout
+
+Version 3.1.5
+
+~End of May 10~

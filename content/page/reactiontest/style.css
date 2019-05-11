@@ -74,10 +74,11 @@ p#Start {
 
 .popbox-content {
   background-color: #fefefe;
-  margin: 15% auto;
+  margin: auto;
   padding: 20px;
   border: 1px solid #888;
-  width: 80%;
+  width: 43%;
+  border-radius: 25px;
 }
 
 
@@ -103,7 +104,7 @@ p#Start {
 }
 
 .popbox-content p {
-  font-size: 50px
+  font-size: 30px;
 }
 
 /* Credit to: https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting */
@@ -116,5 +117,36 @@ p#Start {
        -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
-                              
+
+}
+
+html {
+  background-color: black;
+}
+
+li {
+  font-size: 28px;
+}
+
+#Bar li {
+  display: inline;
+  float: left;
+  font-size: 30px;
+  position: relative;
+
+}
+
+#Bar li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  position: relative;
+
+}
+
+ul#Bar {
+  padding: 0px;
+  margin: 0px;
+  position: absolute;
+
 }

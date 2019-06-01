@@ -16,5 +16,8 @@ Check out my github and youtube video on this:
 <https://youtu.be/209Iq2ln_No>
 
 ```
-one day I hope to get my library on pip! Maybe I'll look like this:$ pip3 install ppsl$ python3>>> from ppsl import *
+one day I hope to get my library on pip! Maybe I'll look like this:
+$ pip3 install ppsl
+$ python3
+>>> from ppsl import *
 ```

@@ -5,9 +5,9 @@ image: /img/purplewhite.png
 tags:
   - projects
 ---
-**This is my most ambitious project in python yet! It's the Python Program Support Library. It will be a library that all python developers can use, from beginners to experts!**
+**This is my most ambitious project in python yet! It's the Python Program Support Library.** 
 
-This library will enable the use of a multitude of functions that can be used in most programs!
+It will be a library that all python developers can use, from beginners to experts! This library will enable the use of a multitude of functions that can be used in most programs!
 
 Check out my github and youtube video on this:
 

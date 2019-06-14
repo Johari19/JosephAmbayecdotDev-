@@ -13,8 +13,6 @@ Check out my github and youtube video on this:
 
 <https://github.com/Johari19/PPSL>
 
-<https://youtu.be/209Iq2ln_No>
-
 ```
 one day I hope to get my library on pip! Maybe It'll look like this:
 $ pip3 install ppsl

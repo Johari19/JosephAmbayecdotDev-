@@ -28,7 +28,7 @@ paginate        = 6
   author = "Joseph Ambayec"
   authorAvatar = "img/newjh.png"
   authorLocation = "Somewhere, ??"
-  authorWebsite = "http://youtube.josephambayec.dev"
+  authorWebsite = "http://josephambayec.dev"
   authorDescription = "Admin, Developper, Programmer"
 
   pageNotFoundTitle = "404 - Page not found"
@@ -49,16 +49,6 @@ paginate        = 6
   name = "Projects"
   url = "/tags/Projects/"
   weight = 100
-
-[[menu.main]]
-  name = "Videos"
-  url = "/tags/Videos/"
-  weight = 99
-
-[[menu.main]]
-  name = "Youtube"
-  url = "http://youtube.josephambayec.dev"
-  weight = 95
 
 [[menu.main]]
   name = "About"

@@ -4,6 +4,7 @@ date: 2022-08-28T19:02:10.110Z
 image: /img/pong.png
 tags:
   - Projects
+  - post
 ---
 # Where to Play?
 

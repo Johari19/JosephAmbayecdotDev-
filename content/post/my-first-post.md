@@ -5,6 +5,7 @@ draft: false
 image: /img/purplewhite.png
 tags:
   - Projects
+  - post
 ---
 
 # New Site is launched!

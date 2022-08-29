@@ -12,7 +12,7 @@ canvas.width = CANVAS_WIDTH;
 canvas.height = CANVAS_HEIGHT;
 canvas.setAttribute('tabindex', '1');
 
-document.body.appendChild(canvas);
+document.getElementById("main").appendChild(canvas);
 
 
  // Load a custom font to use.

@@ -34,4 +34,5 @@ input[type="radio"] {
   }
   form {
     margin: 10px;
+    text-align: center;
   }

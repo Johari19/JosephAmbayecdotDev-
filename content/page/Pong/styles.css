@@ -19,7 +19,6 @@ canvas {
 }
 
 input[type="radio"] {
-    appearance: none;
     background-color: #fff;
     margin: 0;
     font: inherit;

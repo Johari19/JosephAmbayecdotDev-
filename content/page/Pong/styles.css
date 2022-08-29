@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    font-family:  'Joystix';
+    src:('./Joystixx.ttf')
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #c7c7c7;
+}
+
+canvas {
+    background-color: #1F1B24;
+    outline: none;
+}
+
+input[type="radio"] {
+    appearance: none;
+    background-color: #fff;
+    margin: 0;
+    font: inherit;
+    color: currentColor;
+    width: 1.15em;
+    height: 1.15em;
+    border: 0.15em solid currentColor;
+    border-radius: 50%;
+  }
+  
+  .form-control + .form-control {
+    margin-top: 1em;
+  }
+  form {
+    margin: 10px;
+  }
